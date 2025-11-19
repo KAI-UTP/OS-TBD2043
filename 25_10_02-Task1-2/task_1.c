@@ -1,13 +1,3 @@
-/*
-STEP 1: Start the program. 
-STEP 2: Create struct dirent.
-STEP 3: declare the variable buff and pointer dptr. 
-STEP 4: Get the directory name.
-STEP 5: Open the directory.
-STEP 6: Read the contents in the directory and print it. 
-STEP 7: Close the directory.
-*/
-
 #include<stdio.h> 
 #include<dirent.h>
 #include<cstdlib>

@@ -1,13 +1,3 @@
-/*
-Step-1: Start the program.
-Step-2: Declare the memory for the process.
-Step-3: Read the number of process, resources, allocation matrix and available matrix. 
-Step-4: Compare each and every process using the banker‟s algorithm.
-Step-5: If the process is in safe state then it is a not a deadlock process otherwise itis a deadlock process
-Step-6: produce the result of state of process 
-Step-7: Stop the program
-*/ 
-
 #include <stdio.h>
 
 // Global declarations

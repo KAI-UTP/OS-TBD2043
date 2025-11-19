@@ -1,12 +1,3 @@
-/*
-Step 1: Start the process
-Step 2: Declare process thread, thread-id.
-Step 3: Read the process thread and thread state.
-Step 4: Check the process thread equals to thread-id by using if condition. 
-Step 5: Check the error state of the thread.
-Step 6: Display the completed thread process. Step 7: Stop the process
- */ 
-
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
